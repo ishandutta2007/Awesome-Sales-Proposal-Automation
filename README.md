@@ -38,65 +38,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## SaaS/Hosted Platforms
+## SaaS Products
 
-- **[Qwilr](https://qwilr.com/)**  
-
-  Modern web-based proposal platform known for interactive, page-like proposals, strong design control, and engagement tracking.
-
-
-
-- **[PandaDoc](https://www.pandadoc.com/)**  
-
-  End-to-end document workflow platform covering proposals, quotes, contracts, e-signatures, payments, and analytics.
-
-
-
-- **[Proposify](https://www.proposify.com/)**  
-
-  Proposal software focused on reusable content libraries, brand control, analytics, and pipeline visibility for sales teams.
-
-
-
-- **[GetAccept](https://www.getaccept.com/)**  
-
-  Digital sales room and proposal platform with video, live chat, e-sign, CRM integrations, and buyer engagement features.
-
-
-
-- **[Better Proposals](https://betterproposals.io/)**  
-
-  Fast, template-driven proposal tool aimed at small teams and freelancers who want elegant, professional output quickly.
-
-
-
-- **[Nusii](https://www.nusii.com/)**  
-
-  Simple, clean proposal and quote software popular with agencies and consultants.
-
-
-
-- **[Responsive](https://www.responsive.io/)**  
-
-  Strategic response and proposal platform (also strong in RFP/questionnaire workflows) with content reuse and automation.
-
-
-
-- **[Loopio](https://loopio.com/)**  
-
-  Response management platform frequently used for proposals, RFPs, and complex questionnaire-driven documents.
-
-
-
-- **[ClientPoint](https://www.clientpoint.net/)**  
-
-  Proposal and sales-enablement platform focused on interactive documents and deal collaboration.
-
-
-
-- **[Ignition](https://www.ignitionapp.com/)**  
-
-  Proposal, engagement-letter, and billing automation platform popular with professional services and accounting firms.
+| Platform | Focus & Key Features | Pricing (Starting Tier) | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Qwilr](https://qwilr.com/)** | Modern web-based proposal platform known for interactive, page-like proposals, strong design control, and engagement tracking. | Starts at **$35/user/month** (billed annually at $420/yr) or $49/user/month (monthly) for Starter plan | **14-day free trial** (no credit card required) with full Starter features (e-signatures, analytics, QwilrPay; pages stay live 30 days post-trial); no permanent free plan |
+| **[PandaDoc](https://www.pandadoc.com/)** | End-to-end document workflow platform covering proposals, quotes, contracts, e-signatures, payments, and analytics. | Starts at **$19/user/month** (billed annually) or $35/user/month (monthly) for Starter plan | **Free forever plan** ("Free eSign") includes up to 60 document sends/year, 5 templates, and 2 recipients/doc. Also offers a **14-day free trial** of Business plan (up to 50 docs sent, no credit card required) |
+| **[Proposify](https://www.proposify.com/)** | Proposal software focused on reusable content libraries, brand control, analytics, and pipeline visibility for sales teams. | Starts at **$19/user/month** (billed annually) or $29/user/month (monthly) for Basic plan (up to 2 users) | **14-day free trial** (no credit card required) with full Team plan features and up to 10 document sends; no permanent free plan |
+| **[GetAccept](https://www.getaccept.com/)** | Digital sales room and proposal platform with video, live chat, e-sign, CRM integrations, and buyer engagement features. | Starts at **$25/user/month** (billed annually) for Essential/eSign tier (Professional starts at $49/user/month with 5-seat minimum) | **14-day free trial** (no credit card required) with access to proposal tracking, video recording, deal rooms, and e-signatures; no permanent free plan |
+| **[Better Proposals](https://betterproposals.io/)** | Fast, template-driven proposal tool aimed at small teams and freelancers who want elegant, professional output quickly. | Starts at **$13/user/month** (billed annually) or $19/user/month (monthly) for Starter plan (includes 10 docs/mo) | **14-day free trial** (no credit card required) with full access to Premium plan features and 50 document allowance; no permanent free plan |
+| **[Nusii](https://www.nusii.com/)** | Simple, clean proposal and quote software popular with agencies and consultants. | Starts at **$29/month** for Freelancer plan (1 user, up to 5 active proposals) or $49/month for Agency (3 users, 20 active proposals) | **14-day free trial** (full access to proposal generator and activity tracking; requires card at signup; 60-day money-back guarantee); no permanent free plan |
+| **[Responsive](https://www.responsive.io/)** | Strategic response and proposal platform (also strong in RFP/questionnaire workflows) with content reuse and automation. | Starts at **~$583/month** ($7,000/year annual contract) or ~$499/user/month for Lite tier (enterprise sales quote) | **No permanent free plan**; **0-day self-serve trial** (evaluation offered via personalized 1-on-1 sales demo and guided sandbox access upon request) |
+| **[Loopio](https://loopio.com/)** | Response management platform frequently used for proposals, RFPs, and complex questionnaire-driven documents. | Starts at **~$833/month** ($10,000/year annual contract) or ~$120/user/month for Foundations tier (enterprise sales quote) | **No permanent free plan**; **0-day self-serve trial** (evaluation provided through custom live sales demo walkthrough and workflow evaluation upon request) |
+| **[ClientPoint](https://www.clientpoint.net/)** | Proposal and sales-enablement platform focused on interactive documents and deal collaboration. | Starts at **$42/month** (Small Business) or $83/month (Sales Accelerator tier) | **Free forever plan** (ClientPoint.me) with unlimited e-signatures, file sharing, video meetings, and basic proposal rooms; 14-day trial available on request for enterprise tiers |
+| **[Ignition](https://www.ignitionapp.com/)** | Proposal, engagement-letter, and billing automation platform popular with professional services and accounting firms. | Starts at **$39/month** (billed annually) or $49/month (monthly) for Solo plan (up to 20 active clients) | **14-day free trial** (no credit card required) with complete feature access and up to $10,000 in payment processing with 0% platform fees; no permanent free plan |
 
 
 
